@@ -4,13 +4,16 @@
 
 ## Must-have features
 
-- Gasket
-- Hot-swap
-- Foam
 - South-facing (North is fine tbh)
+- Gasket
+- Hot-swap 5-pin or 3-pin
+- Foam. Example: Foam case: Poron; Foam switch: IXPE; Foam plate: Poron.
+
 
 ## Modding
-
+- Mod stab (lube, cân wire, holee)
+- Tape 3M 3 layer
+- Tape Teflon Flexcut
 
 
 ## Typing Practice
