@@ -15,6 +15,9 @@
 - Tape 3M 3 layer
 - Tape Teflon Flexcut
 
+## Clean your keyboard
+
+https://youtube.com/shorts/jCKRbDA0HL8?feature=share
 
 ## Typing Practice
 
