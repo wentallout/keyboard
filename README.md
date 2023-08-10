@@ -17,6 +17,8 @@ Just a quick guide on mechanical keyboards and how to improve them.
 
 - Lubricant: Krytox 205g0 recommended.
 - Paint Brush: 00 or 000 size recommended
+- Stem holder
+- Tweezer
 - Syringe: kinda optional
 - Switch opener
 
@@ -29,6 +31,12 @@ https://youtu.be/usNx1_d0HbQ
 - Holee
 
 ## Lube your Switches
+
+https://youtu.be/88tnUYbxaIs
+
+Warning: very time consuming.
+
+- Some need films
 
 ## Tape Mod
 
