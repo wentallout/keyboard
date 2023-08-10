@@ -9,9 +9,32 @@
 - Hot-swap 5-pin or 3-pin
 - Foam. Example: Foam case: Poron; Foam switch: IXPE; Foam plate: Poron.
 
+## Tools
 
-## Modding
-- Mod stab (lube, cân wire, holee)
+- Lubricant: Krytox 205g0 recommended.
+- Paint Brush: 00 or 000 size recommended
+- Syringe: kinda optional
+
+
+## Stabilizers
+
+https://youtu.be/usNx1_d0HbQ
+
+### Lube stab
+
+less is more
+
+### Wire balancing
+
+the spacebar is the most notable
+
+### Holee
+
+Band aid
+
+
+## Tape Mod
+
 - Tape 3M 3 layer
 - Tape Teflon Flexcut
 
