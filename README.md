@@ -6,6 +6,9 @@ Just a quick guide on mechanical keyboards and how to improve them.
 
 https://docs.google.com/spreadsheets/d/1pKQuQ1lbb0feTja8DVIHdSvXyzAJlpfVVqnYLgQ6ZI0/edit?usp=sharing
 
+Actuation Force: Amount of force required to register a press. Measured in grams.
+Bottom Out Force: Amount of force it takes for the switch to be fully depressed. Most aftermarket springs are measured in Bottom Out.
+
 ## Keyboard Anatomy
 
 1. Keyboard case (Plastic, Aluminum, Brass, Steel)
@@ -14,6 +17,10 @@ https://docs.google.com/spreadsheets/d/1pKQuQ1lbb0feTja8DVIHdSvXyzAJlpfVVqnYLgQ6
 4. Stabilizers
 5. Switches (only Linear is relevant)
 6. Keycaps (only PBT is relevant)
+
+## Switch Anatomy
+
+https://www.theremingoat.com/blog/beginners-guide?rq=beginner
 
 ## Layout
 
