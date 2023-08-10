@@ -21,6 +21,8 @@ Bottom Out Force: Amount of force it takes for the switch to be fully depressed.
 ## Switch Anatomy
 
 ![switch](https://github.com/wentallout/keyboard/assets/76118931/ef8fb35f-75ff-4eb4-9bab-9efb5099fcd7)
+
+
 https://www.theremingoat.com/blog/beginners-guide?rq=beginner
 
 ## Layout
