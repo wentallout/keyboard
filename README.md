@@ -2,6 +2,19 @@
 
 Just a quick guide on mechanical keyboards and how to improve them.
 
+## Terminologies
+
+https://docs.google.com/spreadsheets/d/1pKQuQ1lbb0feTja8DVIHdSvXyzAJlpfVVqnYLgQ6ZI0/edit?usp=sharing
+
+## Keyboard Anatomy
+
+1. Keyboard case (Plastic, Aluminum, Brass, Steel)
+2. PCB: the brain of your keyboard, can be Hotswap or Solderable.
+3. Plate (aluminum, steel, brass, carbon fiber, poly, acrylic, pom)
+4. Stabilizers
+5. Switches (only Linear is relevant)
+6. Keycaps (only PBT is relevant)
+
 ## Layout
 
 ![layout](https://github.com/wentallout/keyboard/assets/76118931/075f6d98-1589-4fdf-ade9-bd0e002b0ce6)
