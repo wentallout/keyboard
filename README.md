@@ -24,7 +24,7 @@ Just a quick guide on mechanical keyboards and how to improve them.
 
 ## Tune your Stabilizers
 
-https://youtu.be/usNx1_d0HbQ
+https://youtu.be/vxHb6CJc9V8
 
 - Lube stab: less is more
 - Wire balancing: the spacebar is the most notable
