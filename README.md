@@ -18,6 +18,7 @@ Just a quick guide on mechanical keyboards and how to improve them.
 - Lubricant: Krytox 205g0 recommended.
 - Paint Brush: 00 or 000 size recommended
 - Syringe: kinda optional
+- Switch opener
 
 ## Tune your Stabilizers
 
@@ -26,6 +27,8 @@ https://youtu.be/usNx1_d0HbQ
 - Lube stab: less is more
 - Wire balancing: the spacebar is the most notable
 - Holee
+
+## Lube your Switches
 
 ## Tape Mod
 
