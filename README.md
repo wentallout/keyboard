@@ -6,12 +6,12 @@ Just a quick guide on mechanical keyboards and how to improve them.
 
 ![layout](https://github.com/wentallout/keyboard/assets/76118931/075f6d98-1589-4fdf-ade9-bd0e002b0ce6)
 
-## Must-have features
+## Features you want to have
 
 - South-facing (North is fine tbh)
 - Gasket
 - Hot-swap 5-pin or 3-pin
-- Foam. Example: Foam case: Poron; Foam switch: IXPE; Foam plate: Poron.
+- Foam. Example: Foam case (Poron); Foam switch (IXPE); Foam plate(Poron).
 
 ## Tools
 
@@ -19,23 +19,13 @@ Just a quick guide on mechanical keyboards and how to improve them.
 - Paint Brush: 00 or 000 size recommended
 - Syringe: kinda optional
 
-
-## Stabilizers
+## Tune your Stabilizers
 
 https://youtu.be/usNx1_d0HbQ
 
-### Lube stab
-
-less is more
-
-### Wire balancing
-
-the spacebar is the most notable
-
-### Holee
-
-Band aid
-
+- Lube stab: less is more
+- Wire balancing: the spacebar is the most notable
+- Holee
 
 ## Tape Mod
 
