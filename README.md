@@ -75,3 +75,5 @@ https://youtube.com/shorts/jCKRbDA0HL8?feature=share
 ## Typing Practice
 
 https://typetest.io/
+
+https://typing.com
