@@ -77,3 +77,5 @@ https://youtube.com/shorts/jCKRbDA0HL8?feature=share
 https://typetest.io/
 
 https://typing.com
+
+![typing](https://github.com/wentallout/keyboard/assets/76118931/54736990-8e7a-44f2-b383-5e393736399a)
