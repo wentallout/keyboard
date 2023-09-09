@@ -1,6 +1,6 @@
-## What is this?
-
 ![image](https://github.com/wentallout/keyboard/assets/76118931/fcd7ac2a-83d8-4612-92f7-54c76776d7b7)
+
+## What is this?
 
 Just a quick guide on mechanical keyboards and how to improve them.
 
