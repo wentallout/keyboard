@@ -68,6 +68,14 @@ Warning: very time consuming.
 - Tape 3M 3 layer
 - Tape Teflon Flexcut
 
+## How to swap stabs
+
+Size: spacebar 6.25U or 7U
+
+Type: PCB Screw-in/Clip-in mount or Plate-mount
+
+Is it Costar vs Cherry MX? Nobody use Costar stab, don't be an idiot.
+
 ## Clean your keyboard
 
 https://youtube.com/shorts/jCKRbDA0HL8?feature=share
