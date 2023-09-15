@@ -87,3 +87,12 @@ https://typetest.io/
 https://typing.com
 
 ![typing](https://github.com/wentallout/keyboard/assets/76118931/54736990-8e7a-44f2-b383-5e393736399a)
+
+## Repair shop in Vietnam
+
+- quận 12 thì có ông này: https://www.facebook.com/hellnar63
+- quận 7/quận 4 thì có ông này: https://www.facebook.com/superleokay
+- Bình Thạnh:
+https://www.facebook.com/pananh.2512/
+https://www.facebook.com/jansworkshop/
+
