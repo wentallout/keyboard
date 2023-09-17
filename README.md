@@ -27,6 +27,14 @@ Bottom Out Force: Amount of force it takes for the switch to be fully depressed.
 
 https://www.theremingoat.com/blog/beginners-guide?rq=beginner
 
+## Switch brands
+
+Jerrzi là một xưởng gia công switch nổi tiếng với những dòng switch gây hiện tượng mạng TQ gần đây như Rouge, Frosty China hay Jade Pendant. Chất lượng chắc tôi cũng không cần phải trình bày nhiều.
+
+Một dòng switch khác của Jerrzi mới được ra mắt ngay gần đây thôi với phong cách đi đầu xu hướng là mua 1 được 2 - tương tự như HMX Macaron,  điều này có nghĩa là sao? 
+
+Điều duy nhất bạn phải làm là rút tiền quyển ra và vả vào mặt tôi là bạn có ngay một em switch wjbu có thể biến hình từ linear thành tactile và từ tactile ngược trở lại thành linear.
+
 ## Layout
 
 ![layout](https://github.com/wentallout/keyboard/assets/76118931/075f6d98-1589-4fdf-ade9-bd0e002b0ce6)
