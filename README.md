@@ -98,9 +98,9 @@ https://typing.com
 
 ## Repair shop in Vietnam
 
-- quận 12 thì có ông này: https://www.facebook.com/hellnar63
-- quận 7/quận 4 thì có ông này: https://www.facebook.com/superleokay
-- Bình Thạnh:
+- District 12: https://www.facebook.com/hellnar63
+- District 7/4: https://www.facebook.com/superleokay
+- Binh Thanh:
 https://www.facebook.com/pananh.2512/
 https://www.facebook.com/jansworkshop/
 
