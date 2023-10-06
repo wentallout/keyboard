@@ -104,3 +104,7 @@ https://typing.com
 https://www.facebook.com/pananh.2512/
 https://www.facebook.com/jansworkshop/
 
+## Reference
+
+https://wiki.installgentoo.com/wiki/Mechanical_keyboards
+
