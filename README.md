@@ -35,9 +35,12 @@ Một dòng switch khác của Jerrzi mới được ra mắt ngay gần đây t
 
 Điều duy nhất bạn phải làm là rút tiền quyển ra và vả vào mặt tôi là bạn có ngay một em switch wjbu có thể biến hình từ linear thành tactile và từ tactile ngược trở lại thành linear.
 
-## Layout
+## Keyboard Layout
 
 ![layout](https://github.com/wentallout/keyboard/assets/76118931/075f6d98-1589-4fdf-ade9-bd0e002b0ce6)
+
+![image](https://github.com/wentallout/keyboard/assets/76118931/5ec04f73-79fa-4199-b039-db3af1fd22f7)
+
 
 ## Features you want to have
 
