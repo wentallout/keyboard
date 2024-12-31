@@ -27,11 +27,6 @@ Bottom Out Force: Amount of force it takes for the switch to be fully depressed.
 
 https://www.theremingoat.com/blog/beginners-guide?rq=beginner
 
-## Switch brands
-
-- Jerrzi là một xưởng gia công switch nổi tiếng với những dòng switch gây hiện tượng mạng TQ gần đây như Rouge, Frosty China hay Jade Pendant. Chất lượng chắc tôi cũng không cần phải trình bày nhiều.
-
-
 ## Keyboard Layout
 
 ![layout](https://github.com/wentallout/keyboard/assets/76118931/075f6d98-1589-4fdf-ade9-bd0e002b0ce6)
